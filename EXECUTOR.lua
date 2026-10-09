@@ -8,7 +8,7 @@ local AUTOR   = "SEU NOME"
 local CONTATO = "@seu_usuario"
 
 -- >>> COLE AQUI O LINK DIRETO DO SEU VORTEXFF.lua (veja como no item 2)
-local REMOTO = "https://SEU-LINK-AQUI/VORTEXFF.lua"
+local REMOTO = "https://raw.githubusercontent.com/migmedrado12-beep/vortexff/refs/heads/main/VORTEXFF.lua"
 
 -- arquivo local de reserva (caso esteja sem internet)
 local LOCALF = "/sdcard/VORTEXFF/VORTEXFF.lua"
